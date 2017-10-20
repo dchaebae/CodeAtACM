@@ -1,4 +1,4 @@
-# CodeAtACM
+# Code@Night ACM Git/Github Lesson
 Let's have some funnnnn!
 We do this for SCIENCE (and also because ACM is a pretty awesome place to be). Okay, let's be real, only the most legit place will get you Qdoba and Hunan like this #ShamelessPlug. By the way, I think of Git/GitHub as traveling to different dimensions like in Rick and Morty.
 
